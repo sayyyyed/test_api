@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428268133688",
+    "project_id": "jalur-gaza-9d0d1",
+    "storage_bucket": "jalur-gaza-9d0d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428268133688:android:7aa16f6cfd80f9ce1cf5cd",
+        "android_client_info": {
+          "package_name": "com.example.flut_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFjpfLp_77XEmUHNUE2jKukxsclNl28s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428268133688:android:51b514db2e40d4dd1cf5cd",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_api_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFjpfLp_77XEmUHNUE2jKukxsclNl28s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
