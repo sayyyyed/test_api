@@ -4,7 +4,6 @@ import 'package:flut_api/home.dart' as lib2;
 import 'package:flut_api/register.dart';
 import 'package:flutter/material.dart';
 
-// import 'package:pertemuan_4/praktikum/main_screen.dart';
 class Login extends StatefulWidget {
   const Login({super.key});
   @override
